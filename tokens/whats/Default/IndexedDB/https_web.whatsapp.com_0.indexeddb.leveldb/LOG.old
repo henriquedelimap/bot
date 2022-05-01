@@ -1,0 +1,35 @@
+2022/04/29-22:35:19.090 1100b Reusing MANIFEST /Users/Henrique/Desktop/bot/tokens/whats/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/29-22:35:19.092 1100b Recovering log #977
+2022/04/29-22:35:19.165 1100b Reusing old log /Users/Henrique/Desktop/bot/tokens/whats/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000977.log 
+2022/04/29-22:35:40.370 6a03 Level-0 table #990: started
+2022/04/29-22:35:40.461 6a03 Level-0 table #990: 1040377 bytes OK
+2022/04/29-22:35:40.466 6a03 Delete type=0 #977
+2022/04/29-22:35:40.493 6a03 Compacting 1@0 + 1@1 files
+2022/04/29-22:35:40.552 6a03 Generated table #991@0: 20835 keys, 459702 bytes
+2022/04/29-22:35:40.555 6a03 Generated table #992@0: 177 keys, 6202 bytes
+2022/04/29-22:35:40.555 6a03 Compacted 1@0 + 1@1 files => 465904 bytes
+2022/04/29-22:35:40.558 6a03 compacted to: files[ 0 2 22 0 0 0 0 ]
+2022/04/29-22:35:40.559 6a03 Delete type=2 #990
+2022/04/29-22:35:40.559 6a03 Delete type=2 #967
+2022/04/29-22:35:40.572 6a03 Compacting 1@1 + 9@2 files
+2022/04/29-22:35:40.748 6a03 Generated table #993@1: 33163 keys, 2257685 bytes
+2022/04/29-22:35:40.866 6a03 Generated table #994@1: 41989 keys, 2211174 bytes
+2022/04/29-22:35:40.959 6a03 Generated table #995@1: 1600 keys, 2137615 bytes
+2022/04/29-22:35:41.026 6a03 Generated table #996@1: 2461 keys, 2148651 bytes
+2022/04/29-22:35:41.100 6a03 Generated table #997@1: 2553 keys, 2149780 bytes
+2022/04/29-22:35:41.175 6a03 Generated table #998@1: 2454 keys, 2151899 bytes
+2022/04/29-22:35:41.269 6a03 Generated table #999@1: 14082 keys, 2176201 bytes
+2022/04/29-22:35:41.413 6a03 Generated table #1000@1: 24821 keys, 2279734 bytes
+2022/04/29-22:35:41.492 6a03 Generated table #1001@1: 15568 keys, 1227747 bytes
+2022/04/29-22:35:41.493 6a03 Compacted 1@1 + 9@2 files => 18740486 bytes
+2022/04/29-22:35:41.495 6a03 compacted to: files[ 0 1 22 0 0 0 0 ]
+2022/04/29-22:35:41.497 6a03 Delete type=2 #983
+2022/04/29-22:35:41.497 6a03 Delete type=2 #982
+2022/04/29-22:35:41.497 6a03 Delete type=2 #980
+2022/04/29-22:35:41.497 6a03 Delete type=2 #981
+2022/04/29-22:35:41.497 6a03 Delete type=2 #985
+2022/04/29-22:35:41.497 6a03 Delete type=2 #991
+2022/04/29-22:35:41.497 6a03 Delete type=2 #984
+2022/04/29-22:35:41.497 6a03 Delete type=2 #979
+2022/04/29-22:35:41.497 6a03 Delete type=2 #986
+2022/04/29-22:35:41.497 6a03 Delete type=2 #987
